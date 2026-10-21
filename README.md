@@ -82,6 +82,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 + [Starboard](https://starboard.codevetter.com) - Discover relevant open-source repositories using project context, hybrid search, and inspectable repository evidence.
 + [GitDiagram](https://gitdiagram.com) - Replace "hub" with "diagram" in any GitHub URL to get an interactive architecture diagram of the repository.
 + [Manifest API Bot](https://github.com/apps/manifest-api-bot) - GitHub App that watches the third-party APIs your code calls and opens a pull request with the fix when one of them changes.
++ [Devtoolwatch Board](https://index.devtoolwatch.com/) - Weekly ranking of AI developer tool repos by new GitHub stars (from daily snapshots) and npm/PyPI download growth, with a page and README badge per repo.
 
 ## Emoji
 
